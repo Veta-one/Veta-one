@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @Veta-one
+- 👀 I'm interested in AI integrations, Telegram bots, and tools that actually solve real problems
+- 🌱 I'm currently learning TypeScript deeper and building with Next.js
+- 👯 I'm looking to collaborate on AI-powered utilities, browser extensions, or anything Gemini-related
+- 📫 How to reach me: vetakz571@gmail.com
